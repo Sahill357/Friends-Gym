@@ -22,7 +22,7 @@ export default function AboutLayout() {
             check academic essays.</p>
           <p className="mb-40">Task One, how to approach the task and the language needed for a successful answer. You’ll 
             examine Task Two questions and learn how to plan, write and check academic essays.</p>
-          <a href="courses.html" className="border-btn">My Courses</a>
+          <a href="#" className="border-btn">My Courses</a>
         </div>
          
       </div>

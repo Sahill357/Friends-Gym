@@ -29,7 +29,7 @@ export default function TraningLayout() {
               <div className="topic-content">
                 <h3>Group traning</h3>
                 <p>You’ll look at graphs and charts in Task One, how to approach the task and <br /> the language needed for a successful answer.</p>
-                <a href="courses.html" className="btn">View Courses</a>
+                <a href="#" className="btn">View Courses</a>
               </div>
             </div>
           </div>

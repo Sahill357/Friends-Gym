@@ -52,7 +52,7 @@ export default function Home() {
             <div className="hero__caption">
               <span data-animation="fadeInLeft" data-delay="0.1s">Hi This is  Zacson</span>
               <h1 data-animation="fadeInLeft" data-delay="0.4s">Gym Trainer</h1>
-              <a href="courses.html" className="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">My Courses</a>
+              <a href="#" className="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">My Courses</a>
             </div>
           </div>
         </div>
