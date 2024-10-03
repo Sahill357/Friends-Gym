@@ -17,7 +17,7 @@ export default function FooterLayout() {
               <div className="single-footer-caption mb-50 text-center">
                 {/* logo */}
                 <div className="footer-logo wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                  <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt /></a>
+                  <a href="index.html"><img src="assets/img/logo/friends-gym-logo.png" alt style={{height:50}} /></a>
                 </div>
                 {/* Menu */}
                 {/* Header Start */}
