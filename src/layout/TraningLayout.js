@@ -15,7 +15,7 @@ export default function TraningLayout() {
               <div className="topic-content">
                 <h3>Personal traning</h3>
                 <p>You’ll look at graphs and charts in Task One, how to approach the task and <br /> the language needed for a successful answer.</p>
-                <a href="courses.html" className="border-btn">View Courses</a>
+                <a href="#" className="border-btn">View Courses</a>
               </div>
             </div>
           </div>
