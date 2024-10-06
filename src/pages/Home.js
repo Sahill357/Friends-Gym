@@ -50,8 +50,8 @@ export default function Home() {
         <div className="row">
           <div className="col-xl-9 col-lg-9 col-md-10">
             <div className="hero__caption">
-              <span data-animation="fadeInLeft" data-delay="0.1s">Hi This is  Zacson</span>
-              <h1 data-animation="fadeInLeft" data-delay="0.4s">Gym Trainer</h1>
+              <span data-animation="fadeInLeft" data-delay="0.1s">Stronger Together</span>
+              <h1 data-animation="fadeInLeft" data-delay="0.4s">Welcome to Friends Gym</h1>
               <a href="#" className="border-btn hero-btn" data-animation="fadeInLeft" data-delay="0.8s">My Courses</a>
             </div>
           </div>
