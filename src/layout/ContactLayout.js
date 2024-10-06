@@ -43,6 +43,9 @@ export default function ContactLayout() {
     // Simulate form submission (you can replace this with an API call)
     setTimeout(() => {
       toast.success('Your message has been sent successfully!');
+      setTimeout(() => {
+        window.location.reload(); // Refresh the page after success
+      }, 1500); // Add a delay to let the toast show before refresh
     }, 1000);
   };
 
